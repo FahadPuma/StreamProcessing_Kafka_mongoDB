@@ -1,4 +1,4 @@
-# **StreamProcessing_Kafka_mongoDB**
+# **StreamProcessing of realtime data from mosquito broker to Kafka and stored in a mongoDB database for reporting**
 A basic ETL pipeline to receive live stream data generated and collected over Apache Kafka and stored in mongoDB for further processing and reporting.
 
 ### **Use Case:**
